@@ -1,0 +1,3 @@
+[submodule "subsub1"]
+	path = subsub1
+	url = https://github.com/zeronixspin/subsub1.git
